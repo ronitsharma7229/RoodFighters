@@ -1,5 +1,0 @@
-Telethon
-python-dotenv
-asyncio
-TgCrypto
-requests
